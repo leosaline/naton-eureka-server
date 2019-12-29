@@ -3,5 +3,5 @@ spring:
     name: naton-eureka-server
   cloud:
     config:
-      uri: http://127.0.0.1:9090
+      uri: http://leo:9090
 eureka:  server:    renewal-percent-threshold: 0.49
